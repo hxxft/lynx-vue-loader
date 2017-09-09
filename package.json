@@ -45,8 +45,7 @@
     "vue-template-es2015-compiler": "^1.5.3"
   },
   "peerDependencies": {
-    "css-loader": "*",
-    "vue-template-compiler": "^2.0.0"
+    "css-loader": "*"
   },
   "devDependencies": {
     "babel-core": "^6.25.0",
@@ -80,7 +79,7 @@
     "url-loader": "^0.5.7",
     "vue": "^2.4.1",
     "vue-server-renderer": "^2.4.1",
-    "vue-template-compiler": "^2.4.1",
+    "lynx-vue-template-compiler": "https://codeload.github.com/hxxft/lynx-vue-template-compiler/tar.gz/v1.0.0",
     "webpack": "^3.0.0",
     "lodash": "^3.3.1",
     "camelcase": "^1.0.2"
